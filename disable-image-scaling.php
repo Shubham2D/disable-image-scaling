@@ -4,6 +4,7 @@
  * Description: Prevents WordPress from automatically scaling large images upon upload.
  * Version: 1.0
  * Author: Shubham Sawarkar
+ * Author URI: https://github.com/Shubham2D
  * License: MIT
  */
 
